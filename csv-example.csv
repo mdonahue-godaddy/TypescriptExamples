@@ -1,0 +1,7 @@
+"tag","method","url","location","status","duration"
+"GET netsupport.tips","GET","http://netsupport.tips","https://google.com",301,200
+"GET dichvu.design","GET","http://dichvu.design","https://duckduckgo.com",301,200
+"GET sub.domain.test.dichvu.design","GET","http://sub.domain.test.dichvu.design","https://yahoo.com",302,200
+"GET ironzinthefire.horse","GET","http://ironzinthefire.horse","https://google.com",302,200
+"GET i.do.not.exist.com","GET","http://i.do.not.exist.com","",404,200
+"GET secure.godaddy/pstore","GET","https://secure.godaddy/pstore","https://godaddy-corp.atlassian.net/l/cp/pU7Uw01L",302,200

@@ -1,0 +1,21 @@
+{
+  "name": "TypescriptExamples",
+  "version": "0.9.0",
+  "description": "Example of loading and managing a csv file",
+  "main": "csv-example.js",
+  "types": "",
+  "scripts": {
+    "test": "tsc csv-example.ts && node csv-example.js && exit 1"
+  },
+  "author": "Michael Donahue",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^6.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "ts-node": "^10.9.1",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.3.3"
+  }
+}
